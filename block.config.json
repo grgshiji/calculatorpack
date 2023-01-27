@@ -1,0 +1,8 @@
+{
+  "name": "calculatorpack",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/grgshiji/calculatorpack",
+    "ssh": "git@github.com:grgshiji/calculatorpack.git"
+  }
+}
